@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/42183561/225020133-7fe7f918-8110-4b51-
 ## How to run the app
 - **Clone the project.**
 ```shell
-git clone https://github.com/extrawest/ev_stations_map_showcase.git
+git clone https://github.com/Virusold0607/flutterflow_ev_station.git
 ```
 - **Open the project.**
 ```shell
